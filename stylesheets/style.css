@@ -7,8 +7,40 @@
 .div2{
     font-family: 'Open Sans', sans-serif;
     background-color: black;
+    float: inline-start;
 }
 .div3{
     font-family: 'Open Sans', sans-serif;
     background-color: blueviolet;
+    color: white;
+}
+.div0{
+    background-color: violet;
+    color: white;
+    height: initial;
+    width: inherit;
+}
+.div4{
+    font-family: 'Open Sans', sans-serif;
+    background-color: lawngreen;
+    color: white;
+}
+}
+.nav{
+    display: inline-block;
+    background-color: turquoise;
+    color: white;
+    position: sticky;
+}
+a:link, a:visited {
+    background-color: tomato;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    float: initial;
+}
+a:hover, a:active{
+    background-color: violet;
 }
