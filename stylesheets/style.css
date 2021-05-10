@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+.div1{
+    font-family: 'Girassol', cursive;
+    background-color: aquamarine;
+}
+.div2{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+.div3{
+    font-family: 'Open Sans', sans-serif;
+    background-color: blueviolet;
+}
