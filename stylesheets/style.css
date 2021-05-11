@@ -93,16 +93,21 @@ a:hover{
 }
 .div-cod {
     background-color: #282828;
-    height: 40px;
-    width: 30%;
+    height: 200px;
+    width: 33%;
+    float: left;
+    font-size: 13px;
+    color: white;
 }
 .div-rl {
     background-color: #282828;
-    height: 40px;
-    width: 30%;
+    height: 200px;
+    width: 33%;
+    float: left;
 }
 .div-r6 {
     background-color: #282828;
-    height: 40px;
-    width: 30%;
+    height: 200px;
+    width: 33%;
+    float: right;
 }
