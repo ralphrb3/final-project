@@ -11,7 +11,7 @@ header{
     background-color: #282828;
     position: sticky;
 }
-h1{
+.nav-head{
     position: absolute;
     padding: 3px;
     float: left;
@@ -49,7 +49,7 @@ a:hover{
     position: relative;
 }
 .hero-text {
-    text-align: top;
+    text-align: center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -83,14 +83,11 @@ a:hover{
     color: white;
     position: sticky;
 }
-/* a:link, a:visited {
-    background-color: tomato;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+.div-team {
+    background-color: #39ca74;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 50%;
 }
-a:hover, a:active{
-    background-color: violet;
-} */
