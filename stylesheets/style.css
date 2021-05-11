@@ -93,21 +93,30 @@ a:hover{
 }
 .div-cod {
     background-color: #282828;
-    height: 200px;
+    height: 90%;
     width: 33%;
     float: left;
-    font-size: 13px;
+    font-size: 16px;
     color: white;
+    display: inline-block;
 }
 .div-rl {
     background-color: #282828;
-    height: 200px;
+    height: 90%;
     width: 33%;
     float: left;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
 }
 .div-r6 {
     background-color: #282828;
-    height: 200px;
+    height: 90%;
     width: 33%;
-    float: right;
+    float: left;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
 }
