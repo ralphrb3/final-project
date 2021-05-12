@@ -91,7 +91,7 @@ a:hover{
     position: sticky;
 } */
 .div-team {
-    background-color: #39ca74;
+    background-color: #469f3e;
     position: absolute;
     padding: 0;
     margin: 0;
@@ -106,26 +106,29 @@ a:hover{
     font-size: 16px;
     color: #282828;
     display: inline-block;
+    text-align: center;
 }
 .div-rl {
     background-color: #469f3e;
     height: 90%;
     width: 33%;
-    float: left;
+    float: right;
     font-size: 16px;
     color: #282828;
     display: inline-block;
+    text-align: center;
 }
 .div-r6 {
     background-color: #469f3e;
     height: 90%;
     width: 33%;
-    float: left;
+    float: right;
     font-size: 16px;
     color: #282828;
     display: inline-block;
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 footer {
     text-align: center;
@@ -154,7 +157,7 @@ footer {
 }
 .rl-image {
     height: 45%;
-    width: 50%;
+    width: 47%;
 }
 .r6-image {
     height: 45%;
@@ -183,9 +186,24 @@ input[type=submit]:hover {
 }
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #282828;
+  display: inline-block;
   padding: 20px;
   margin: 0;
   height: 42%;
-  width: 50%;
+  width: 45%;
+  color: #469f3e;
+}
+.contact {
+    float: right;
+    position: relative;
+    height: 47%;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+    background-color: #282828;
+    display: table;
+    vertical-align: top;
+    text-align: center;
+    color: #469f3e;
 }
