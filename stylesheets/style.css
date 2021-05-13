@@ -157,6 +157,9 @@ footer {
     position: absolute;
     width: 100%;
   }
+  h1 {
+    font-family: 'Girassol', cursive;
+  }
   h3 {
       float: left;
       text-align: center;
