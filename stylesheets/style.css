@@ -19,6 +19,10 @@ header{
     margin-top: 10px;
     font-family: 'Girassol', cursive;
     color: #39ca74;
+    left: 130px;
+}
+.logo {
+    float: left;
 }
 ul{
     width: auto;
