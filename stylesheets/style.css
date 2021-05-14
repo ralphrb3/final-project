@@ -60,6 +60,9 @@ a:hover{
     transform: translate(-50%,-50%);
     color: white;
 }
+p {
+    font-family: 'Open Sans', sans-serif;
+}
 .div2{
     font-family: 'Open Sans', sans-serif;
     background-color: black;
